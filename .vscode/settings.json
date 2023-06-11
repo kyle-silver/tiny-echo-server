@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "/path to file/*.extension": "language",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "ip.h": "c"
+    }
+}
